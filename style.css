@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+a
+{
+    color: #007bff;
+}
 /*--NavigationBar*/
 #nav-bar
 {
@@ -86,6 +90,41 @@
     border-radius: 16px!important;
     margin-bottom: 20px;
 }
+/*--skills--*/
+#skill
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#skill .row
+{
+    margin-top: 30px;
+}
+.cpl-md-2
+{
+    margin: 20px auto;
+}
+.profile-logo
+{
+    padding: 10px 10px 10px;
+    background-color: #efefef;
+    border-radius: 30%;
+    width: 150px;
+    height: 150px;
+}
+.profile-logo:hover
+{
+    box-shadow: 0 0 15px 15px rgb(0,0,0,0.2);
+    transition: 0.5s;
+}
+.working
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
 
 /*--Team--*/
 #team
@@ -133,7 +172,6 @@ h1::after
 .profile:hover
 {
     box-shadow: 0 0 15px 15px rgb(0,0,0,0.2);
-    cursor: pointer;
     transition: 0.5s;
 }
 .user
