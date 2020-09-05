@@ -119,7 +119,7 @@ a
 }
 .profile-logo:hover
 {
-    box-shadow: 0  15px 15px rgb(0,0,0,0.5);
+    box-shadow: 0  15px 15px #007bff;
     transition: 0.5s;
     transform: translateY(-10px);
 }
@@ -177,7 +177,7 @@ h1::after
 }
 .profile:hover
 {
-    box-shadow: 0 0 15px 15px rgb(0,0,0,0.2);
+    box-shadow: 0 0 15px 15px #007bff;
     transition: 0.5s;
 }
 .user
@@ -194,6 +194,38 @@ h1::after
     position: absolute;
     left: calc(50px - 60px);
     border: 10px solid #fff;
+}
+/*--Certificate--*/
+#certificate
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#certificate .row
+{
+    margin-top: 30px;
+}
+.col-md-6
+{
+    margin: 40px auto;
+}
+.content
+{
+    padding: 10px 10px 10px;
+    background-color: #efefef;
+    align-content: center;
+    width: 500px;
+    border-radius: 10%;
+}
+.content img
+{
+    border-radius: 50px;
+}
+.content:hover
+{
+    box-shadow: 0  15px 15px #007bff;
+    transition: 0.5s;
+    transform: translateY(10px);
 }
 /*--Get in Touch--*/
 #contact
@@ -241,5 +273,10 @@ h1::after
 {
     background: #333;
     color: #fff;
-    padding: 12px;
+    padding: 5px;
+    padding-bottom: 1px;
+}
+.ttk
+{
+    font-family: 'Dosis', sans-serif;
 }
