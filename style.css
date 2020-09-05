@@ -18,6 +18,7 @@ a
 {
     height: 40px;
     padding-left: 30px;
+    
 }
 .navbar-nav li
 {
@@ -30,11 +31,11 @@ a
 }
 #nav-bar ul li a:hover
 {
-    color: #007bff!important;
+    color: #000000!important;
 }
 .navbar
 {
-    background: rgb(255, 255, 255);
+    background: #007bff;
 }
 .navbar-toggler
 {
@@ -42,7 +43,7 @@ a
 }
 .nav-link
 {
-    color: #555!important;
+    color: rgb(255, 255, 255)!important;
     font-weight: 600;
     font-size: 16px;
 }
@@ -60,11 +61,15 @@ a
 }
 .carousel-caption h5
 {
-    color: rgb(255, 255, 255);
+    color: #007bff;
     font-size: 30px;
 }
 
-
+/*--Profile*/
+#profile h2
+{
+    color: #007bff;
+}
 /*--About*/
 #about
 {
