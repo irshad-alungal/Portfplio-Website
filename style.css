@@ -105,6 +105,16 @@ a
 {
     margin: 10px auto;
     align-items: center;
+    
+}
+.profile-logo1
+{
+    padding: 10px 10px 10px;
+    background-color: #efefef;
+    border-radius: 30%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 30px;
 }
 .profile-logo
 {
@@ -114,7 +124,13 @@ a
     width: 150px;
     height: 150px;
     margin-bottom: 30px;
-    margin-left: 50px;
+    margin-left: 5px;
+}
+.profile-logo1:hover
+{
+    box-shadow: 0  15px 15px rgb(0,0,0,0.5);
+    transition: 0.5s;
+    transform: translateY(-10px);
 }
 .profile-logo:hover
 {
