@@ -95,15 +95,14 @@ a
 {
     padding-top: 50px;
     padding-bottom: 50px;
+    padding-right: 250px;
+    padding-left: 250px;
 }
 #skill .row
 {
     margin-top: 30px;
 }
-.cpl-md-2
-{
-    margin: 20px auto;
-}
+
 .profile-logo
 {
     padding: 10px 10px 10px;
@@ -111,6 +110,7 @@ a
     border-radius: 30%;
     width: 150px;
     height: 150px;
+    margin-bottom: 30px;
 }
 .profile-logo:hover
 {
