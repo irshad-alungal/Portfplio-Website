@@ -146,6 +146,10 @@ a
     padding-bottom: 50px;
     color: #555;
 }
+#team h4
+{
+    text-align: justify;
+}
 h1
 {
     text-align: center;
@@ -260,6 +264,7 @@ h1::after
     background: #fff;
     padding: 10px;
     margin: 15px;
+    
 }
 #slogo
 {
