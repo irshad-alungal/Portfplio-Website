@@ -59,9 +59,10 @@ a
     transform: translateY(-50%);
     bottom: initial!important;
 }
-.carousel-caption h3
+.carousel-caption h5
 {
     color: #007bff;
+    font-size: 30px;
     font-family: 'Kanit', sans-serif;
 }
 
