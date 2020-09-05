@@ -247,9 +247,9 @@ h1::after
 }
 .form-conrol
 {
-    border-radius: o!important;
+    border-radius: 5px!important;
     border: none!important;
-    width: 375px;
+    width: 300px;
 }
 ::placeholder
 {
