@@ -61,17 +61,14 @@ a
 }
 .carousel-caption h5
 {
-    color: #007bff;
+    color: #ffffff;
     font-size: 30px;
-    font-family: 'Kanit', sans-serif;
+    font-family: 'Asset', cursive;
+    -webkit-text-fill-color: #007bff;
+    -webkit-text-stroke-width: 2px;
 }
 
-/*--Profile*/
-#profile h2
-{
-    color: #007bff;
-    font-family: 'Kanit', sans-serif;
-}
+
 /*--About*/
 #about
 {
