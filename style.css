@@ -17,7 +17,7 @@ a
 .navbar-brand
 {
     height: 40px;
-    padding-left: 30px;
+    padding-left: 10px;
     
 }
 .navbar-nav li
@@ -62,13 +62,15 @@ a
 .carousel-caption h5
 {
     color: #007bff;
-    font-size: 30px;
+    font-size: 40px;
+    font-family: 'Kanit', sans-serif;
 }
 
 /*--Profile*/
 #profile h2
 {
     color: #007bff;
+    font-family: 'Kanit', sans-serif;
 }
 /*--About*/
 #about
