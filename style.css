@@ -266,6 +266,10 @@ h1::after
     padding-left: 100px;
     
 }
+.itemss
+{
+    align-items: center;
+}
 #logo
 {
     padding-left: 40px;
