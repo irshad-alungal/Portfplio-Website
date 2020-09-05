@@ -99,6 +99,7 @@ a
 #skill .row
 {
     margin-top: 30px;
+    align-items: center;
 }
 .col-md-3
 {
