@@ -252,7 +252,7 @@ h1::after
 }
 .line
 {
-    width: 400px;
+    width: 50%;
     height: 3px;
     background-color: #007bff;
 }
