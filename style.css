@@ -239,48 +239,19 @@ h1::after
     transform: translateY(10px);
 }
 /*--Get in Touch--*/
-#contact
+#message
 {
-    background: #efefef;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    color: #777;
-}
-.contact-form
-{
-    padding: 15px;
-}
-.form-conrol
-{
-    border-radius: 5px!important;
-    border: none!important;
-    width: 300px;
-}
-::placeholder
-{
-    color: #999!important;
-}
-.follow
-{
-    background: #fff;
-    padding: 10px;
-    margin: 15px;
-    
-}
-#slogo
-{
-    padding-left: 100px;
-    
-}
+    height: 100px;
+   }
 .itemss
 {
     align-items: center;
 }
 #logo
 {
-    padding-left: 40px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 
@@ -291,6 +262,10 @@ h1::after
     color: #fff;
     padding: 5px;
     padding-bottom: 1px;
+}
+#footer a
+{
+    color: #007bff;
 }
 .ttk
 {
