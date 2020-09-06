@@ -246,10 +246,19 @@ h1::after
 .itemss
 {
     align-items: center;
+    background-color: #efefef;
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+}
+.line
+{
+    width: 400px;
+    height: 3px;
+    background-color: #007bff;
 }
 #logo
 {
-    margin-left: 20px;
+    margin-left: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
     
@@ -258,7 +267,7 @@ h1::after
 /*---Footer---*/
 #footer
 {
-    background: #333;
+    background: rgb(0, 0, 0);
     color: #fff;
     padding: 5px;
     padding-bottom: 1px;
