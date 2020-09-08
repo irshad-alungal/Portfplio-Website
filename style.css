@@ -67,6 +67,10 @@ a
     font-family: 'Kanit', sans-serif;
 }
 /*--Profile*/
+#profile
+{
+    padding: 5% auto;
+}
 #profile h2
 {
     color: #007bff;
